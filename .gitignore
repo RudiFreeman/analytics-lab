@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Данные (крупные датасеты не храним в git)
+# data/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -8,6 +8,7 @@
 | Проект | Тема | Стек | Статус |
 |---|---|---|---|
 | [A/B-тест Cookie Cats](./ab-testing-cookie-cats) | Анализ A/B-теста мобильной игры: перенос gate, влияние на retention | Python, pandas, scipy, matplotlib | 🟡 В работе |
+| [Online Retail II UCI](./Online%20Retail%20II%20UCI) | Анализ продаж интернет-магазина: очистка данных, сезонность выручки, RFM-сегментация клиентов | Python, pandas, matplotlib | 🟢 Завершён |
 
 ## Стек
 
